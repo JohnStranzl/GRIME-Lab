@@ -31,7 +31,7 @@
 
 <div class="panel-container">
   <div class="panel">
-    <h2>GRIME-AI</h2>
+    <h2>GRIME AI</h2>
     <p align="center">
       <img src="GRIME-AI Logo.png" alt="GRIME AI Logo">
     </p>
