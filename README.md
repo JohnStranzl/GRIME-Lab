@@ -48,7 +48,9 @@
   
   <div class="panel">
     <h2>Publications</h2>
-      <p>Our team has been involved in image-based hydrology for over a decade. New applications are focused on image analysis, data fusion, and machine learning applications. This work informs the new workflows and functionality we're adding to GRIME2 and GRIME-AI. Recent studies include:  <ul>
+    <p align="center">
+      <img src="graphics/Capure-450x300.jpg" alt="GRIME Lab Publication Logo">
+      Our team has been involved in image-based hydrology for over a decade. New applications are focused on image analysis, data fusion, and machine learning applications. This work informs the new workflows and functionality we're adding to GRIME2 and GRIME-AI. Recent studies include:  <ul>
     <li>GaugeCam (GRIME2) lab and field performance studies</li>
     <li>GaugeCam (GRIME2) technical note</li>
     <li>Water quality study using GaugeCam monitoring</li>
