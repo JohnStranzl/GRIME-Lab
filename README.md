@@ -34,19 +34,21 @@
     <h2>GRIME AI</h2>
     <p align="center">
       <img src="GRIME-AI Logo.png" alt="GRIME AI Logo">
-      <GRIME AI is a Windows program for accessing open data, including images. Current functionality includes a download manager for NEON/PhenoCam sites. Image processing and machine workflows are also being developed for use with public data or imagery from your own field sites.
+       GRIME AI is a Windows program for accessing open data, including images. Current functionality includes a download manager for NEON/PhenoCam sites. Image processing and machine workflows are also being developed for use with public data or imagery from your own field sites.
     </p>
   </div>
   
   <div class="panel">
-    <h2>Latest Release</h2>
-    <p>Latest Windows installer: GRIME2 (v0.4.0.0) is available via GitHub.</p>
-    <p>Find out more on the GRIME2 page.</p>
+    <h2>GRIME AI</h2>
+    <p align="center">
+      <img src="GRIME-AI Logo.png" alt="GRIME AI Logo">
+      GRIME2 is a Windows program for managing and analyzing imagery of water bodies. Current functionality includes automatic calibration and water level measurement. Gaugecam Remote Image Manager – Educational is open source and free.
+    </p>
   </div>
   
   <div class="panel">
     <h2>Publications</h2>
-    <p>Our team has been involved in image-based hydrology for over a decade. New applications are focused on image analysis, data fusion, and machine learning applications. This work informs the new workflows and functionality we're adding to GRIME2 and GRIME-AI.</p>
+    <p>Our team has been involved in image-based hydrology for over a decade. New applications are focused on image analysis, data fusion, and machine learning applications. This work informs the new workflows and functionality we're adding to GRIME2 and GRIME-AI. Recent studies include:</p>
   </div>
 </div>
 
