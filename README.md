@@ -39,7 +39,7 @@
   </div>
   
   <div class="panel">
-    <h2>GRIME AI</h2>
+    <h2>GRIME2</h2>
     <p align="center">
       <img src="GRIME-AI Logo.png" alt="GRIME AI Logo">
       GRIME2 is a Windows program for managing and analyzing imagery of water bodies. Current functionality includes automatic calibration and water level measurement. Gaugecam Remote Image Manager – Educational is open source and free.
@@ -48,7 +48,14 @@
   
   <div class="panel">
     <h2>Publications</h2>
-    <p>Our team has been involved in image-based hydrology for over a decade. New applications are focused on image analysis, data fusion, and machine learning applications. This work informs the new workflows and functionality we're adding to GRIME2 and GRIME-AI. Recent studies include:</p>
+      <p>Our team has been involved in image-based hydrology for over a decade. New applications are focused on image analysis, data fusion, and machine learning applications. This work informs the new workflows and functionality we're adding to GRIME2 and GRIME-AI. Recent studies include:  <ul>
+    <li>GaugeCam (GRIME2) lab and field performance studies</li>
+    <li>GaugeCam (GRIME2) technical note</li>
+    <li>Water quality study using GaugeCam monitoring</li>
+    <li>Improving streamflow monitoring</li>
+    <li>Manuscripts in prep: 2</li>
+  </ul>
+</p>
   </div>
 </div>
 
